@@ -3,6 +3,7 @@ Natsu
 Naruto
 Freeza
 Jiren
+<<<<<<< HEAD
 Nobru Apelão
 Goku
 Sasuke
@@ -13,3 +14,9 @@ Pessi
 Penaldo
 Ronaldinho Gaucho
 Neymar dos games
+=======
+Arrascaeta
+Everton Ribeiro
+Gabigol
+Pedro
+>>>>>>> 97f92e9 (Novos personagens)
