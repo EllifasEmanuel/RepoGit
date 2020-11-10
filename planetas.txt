@@ -1,10 +1,7 @@
 Alderaan
 Curuscant 
-<<<<<<< HEAD
 Endor
 Terra
 Marte
-
-=======
 Endor
->>>>>>> faf8b9d (Revert "Adicionando o planeta Marte no arquivo planeta.txt")
+
